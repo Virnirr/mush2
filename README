@@ -1,0 +1,14 @@
+name: Zhixiang He (zhe10)
+
+Special Instruction: 
+usage: ./mush2 [ -v ] [ infile ]
+
+-v: would tell you each stage of your pipes and the commands as well as 
+other optional configurations. 
+
+infile is optional: it is the batch comamnds you want to run in infile.
+
+Other: Thank you for your time and your teaching this quarter :)
+8-P: echo "bye"
+bye
+8-P: ^D
